@@ -43,6 +43,7 @@ class UIFunctions(MainWindow):
         t.start()
 
     def test_func_02(self):
+        time.sleep(2)
         print("Test 2")
 
 
