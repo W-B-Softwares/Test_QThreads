@@ -42,7 +42,7 @@ class UIFunctions(MainWindow):
         t = MyThread(target=test_th)
         t.start()
 
-    def test_func_02():
+    def test_func_02(self):
         print("Test 2")
 
 
